@@ -1,0 +1,58 @@
+body{
+    font-family: Montserrat;
+}
+
+
+#title{
+    background-color: #c74457;
+
+}
+
+.edit1{
+    font-family:montserrat-Black 900 italic;;
+    font-size:60px;
+    line-height: 1.5;
+    color:white;
+    margin-left:20%;
+}
+
+.container-fluid{
+    padding: 3% 45%;
+}
+
+/**** nav bar**/
+.navbar{
+    padding:80px;
+    margin: 0px 137px 20px 137px;
+}
+
+.navbar-brand{
+    font-family: "Ubuntu";
+    font-size:2.25rem;
+    font-weight:bold;
+}
+
+.nav-item{
+    padding:0 18px;
+}
+
+.edit2{
+    padding:50px;
+}
+
+/** download buttons **/
+
+.download_button{
+    margin:5% 3% 5% 0;
+}
+
+.edit3{
+    margin-left:6%;
+}
+
+/*****title image***/
+
+.title-image{
+    width:60%;
+    transform: rotate(20deg);
+}
